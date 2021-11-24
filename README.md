@@ -1,3 +1,26 @@
+## Requisitos
+
+- Primero haz un _Fork_ de este repositorio
+- Después clona __tu__ repositorio
+
+## Entrega
+
+Una vez que tengas el resultado:
+
+```shell
+$ git add .
+$ git commit -m "done"
+$ git push origin master
+```
+## Enviament
+
+Per enviar l'exercici feu servir el classroom:
+
+1.- Heu de publicar la vostar WEB
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+
+2.- Enviar el link de la vostra web publicada.
+
 # Responsive Slack
 
 ## Introducción
